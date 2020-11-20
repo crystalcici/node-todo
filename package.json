@@ -1,0 +1,9 @@
+{
+  "name": "node-todo",
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.2"
+  }
+}
